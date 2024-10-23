@@ -1,0 +1,52 @@
+{
+    "nav": {
+      "home": "Home",
+      "donate": "Donate",
+      "find": "Find",
+      "profile": "Profile",
+      "admin": "Admin Dashboard"
+    },
+    "home": {
+      "title": "Welcome to Good-Karma",
+      "description": "Reduce food waste and help those in need"
+    },
+    "donate": {
+      "title": "Donate Food",
+      "foodItem": "Food Item",
+      "quantity": "Quantity",
+      "expirationDate": "Expiration Date",
+      "pickupLocation": "Pickup Location",
+      "foodType": "Food Type",
+      "submit": "Donate"
+    },
+    "find": {
+      "title": "Find Food",
+      "search": "Search food items...",
+      "filter": "Apply Filters",
+      "reserve": "Reserve",
+      "reserved": "Reserved"
+    },
+    "profile": {
+      "title": "Profile",
+      "welcome": "Welcome",
+      "logout": "Logout",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "admin": {
+      "title": "Admin Dashboard",
+      "stats": "Statistics",
+      "userManagement": "User Management",
+      "donationManagement": "Donation Management"
+    },
+    "common": {
+      "loading": "Loading...",
+      "error": "An error occurred. Please try again.",
+      "success": "Operation successful!",
+      "cancel": "Cancel",
+      "save": "Save",
+      "delete": "Delete",
+      "edit": "Edit"
+    }
+  }
+  

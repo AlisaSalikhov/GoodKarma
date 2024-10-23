@@ -1,0 +1,52 @@
+{
+    "nav": {
+      "home": "Inicio",
+      "donate": "Donar",
+      "find": "Buscar",
+      "profile": "Perfil",
+      "admin": "Panel de Administración"
+    },
+    "home": {
+      "title": "Bienvenido a Good-Karma",
+      "description": "Reduce el desperdicio de alimentos y ayuda a los necesitados"
+    },
+    "donate": {
+      "title": "Donar Alimentos",
+      "foodItem": "Alimento",
+      "quantity": "Cantidad",
+      "expirationDate": "Fecha de Caducidad",
+      "pickupLocation": "Lugar de Recogida",
+      "foodType": "Tipo de Alimento",
+      "submit": "Donar"
+    },
+    "find": {
+      "title": "Buscar Alimentos",
+      "search": "Buscar alimentos...",
+      "filter": "Aplicar Filtros",
+      "reserve": "Reservar",
+      "reserved": "Reservado"
+    },
+    "profile": {
+      "title": "Perfil",
+      "welcome": "Bienvenido",
+      "logout": "Cerrar Sesión",
+      "login": "Iniciar Sesión",
+      "signup": "Registrarse"
+    },
+    "admin": {
+      "title": "Panel de Administración",
+      "stats": "Estadísticas",
+      "userManagement": "Gestión de Usuarios",
+      "donationManagement": "Gestión de Donaciones"
+    },
+    "common": {
+      "loading": "Cargando...",
+      "error": "Ocurrió un error. Por favor, inténtalo de nuevo.",
+      "success": "¡Operación exitosa!",
+      "cancel": "Cancelar",
+      "save": "Guardar",
+      "delete": "Eliminar",
+      "edit": "Editar"
+    }
+  }
+  

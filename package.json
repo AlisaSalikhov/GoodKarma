@@ -1,0 +1,41 @@
+{
+  "name": "good-karma",
+  "version": "1.0.0",
+  "description": "Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.14.1",
+    "i18next": "^23.16.0",
+    "natural": "^8.0.1",
+    "node-nlp": "^4.27.0",
+    "nodemailer": "^6.9.15",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^15.0.3",
+    "react-router-dom": "^6.27.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
